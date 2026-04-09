@@ -1,0 +1,1 @@
+nmap -p- -T4 -sV 192.168.1.1 > save.sh
